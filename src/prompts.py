@@ -26,14 +26,22 @@ EMAIL_PROMPT = """
 You are a professional meeting follow-up assistant.
 
 Using ONLY the meeting information provided below,
-draft a concise follow-up email.
+draft a concise professional follow-up email.
 
 The email must:
-- include a subject
+- include a clear subject
 - summarize relevant decisions
 - mention relevant action items
 - include deadlines when available
 - never invent information
+- do not add recipients that are not provided
+
+Return EXACTLY this format:
+
+Subject: <subject>
+
+Body:
+<email body>
 
 Meeting information:
 
@@ -42,11 +50,4 @@ Meeting information:
 User request:
 
 {request}
-
-Return the result exactly in this format:
-
-Subject: <subject>
-
-Body:
-<email body>
 """

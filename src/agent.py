@@ -54,7 +54,7 @@ class MeetingAgent:
                 ),
             }
 
-        results = self.rag.search(request, k=3)
+        results = self.rag.search(request, k=1)
 
         context = "\n\n".join(
             f"[Source: {result['source']}]\n{result['text']}"
