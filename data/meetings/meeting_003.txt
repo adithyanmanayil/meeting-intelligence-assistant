@@ -1,0 +1,26 @@
+Meeting ID: meeting_003
+Date: 2026-09-17
+Title: Customer Feedback Meeting
+
+Participants:
+- Alice - Product Manager
+- Grace - Customer Success
+- Henry - Sales
+
+Discussion:
+
+Grace reported that customers are requesting CSV export functionality.
+
+Henry said several enterprise customers also requested scheduled reports.
+
+Alice agreed that CSV export should be considered for the next sprint.
+
+Action Items:
+
+1. Alice will create a CSV export requirement.
+2. Grace will collect additional customer feedback.
+3. Henry will identify enterprise customers interested in scheduled reports.
+
+Decisions:
+
+CSV export will be evaluated for the next sprint.

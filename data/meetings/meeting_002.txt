@@ -1,0 +1,26 @@
+Meeting ID: meeting_002
+Date: 2026-09-16
+Title: Engineering Sprint Review
+
+Participants:
+- David - Engineering Manager
+- Emma - Frontend Developer
+- Frank - QA Engineer
+
+Discussion:
+
+Emma reported that the dashboard UI is 80 percent complete.
+
+Frank reported that regression testing has started.
+
+David requested that critical bugs be fixed before the next release.
+
+Action Items:
+
+1. Emma will complete the dashboard UI by September 22.
+2. Frank will finish regression testing by September 23.
+3. David will review critical bugs on September 24.
+
+Decisions:
+
+The team agreed that no release should happen until critical bugs are resolved.
